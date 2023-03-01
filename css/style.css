@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+
+.gray{
+    background-color: #dbdbe5;
+}
+
+.white{
+    width: 80%;
+    background-color: #ffffff;
+}
+
+.white-gray{
+    background-color: #f4f4f4;
+}
